@@ -12,5 +12,5 @@
             </div>
         </div>
     </div> --}}
-    {{-- <h1>This is the dashboard</h1> --}}
+    <h1>This is Admin dashboard</h1>
 </x-app-layout>
