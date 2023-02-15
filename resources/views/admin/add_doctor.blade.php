@@ -62,7 +62,7 @@
                     <input type="file" name="file" required>
                 </div>
                 <div style="padding: 15px"> 
-                    <input type="submit" class="btn btn-success">
+                    <button type="submit" class="btn btn-success">Submit</button>
                 </div>
             </form>
         </div>
